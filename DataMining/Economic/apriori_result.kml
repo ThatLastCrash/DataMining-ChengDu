@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+  <Document>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.079765,30.6577,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.043106,30.716087,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.07657,30.653683,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.08768,30.653702,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.07304,30.654844,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.0441,30.703434,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.078545,30.658073,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.103134,30.669348,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.044876,30.701544,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.05731,30.672983,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.071556,30.653606,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.05219,30.684792,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.09022,30.65431,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.0821,30.654087,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.0794,30.65596,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.0794,30.65596,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.05731,30.672983,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.0441,30.703434,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.078545,30.658073,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.0794,30.65596,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.07657,30.653683,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>f:/locaspaceviewer 4 (64位)/locaspaceviewer4/resource/image/gemarker/dollar.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>0.600000023841858</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerIconAlign">
+          <value>1</value>
+        </Data>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          104.0794,30.65596,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
+
